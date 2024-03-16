@@ -1,3 +1,3 @@
 # Ultramarine
 
-A Early Exploration on Life-Long Learning with Mixture-of-Experts
+An Early Exploration of Lifelong Learning with Mixture-of-Experts
